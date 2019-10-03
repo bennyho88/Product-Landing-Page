@@ -96,11 +96,17 @@ img {
 
 }
 
+
+.showcase-img {
+    margin-bottom: 150px;
+
+}
+
 /* Section b */
 
 .section-b {
     position: relative;
-    background: url('/dist/img/tablewhiteheadphone.jpg');
+    background: url('/dist/img/universe.jpg');
     height: 600px;
 }
 
